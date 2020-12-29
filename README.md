@@ -1,7 +1,5 @@
 # SimpleCoin
-Just a really simple, insecure and incomplete implementation of a blockchain for a cryptocurrency made in Python. The goal of this project is to make a working blockchain currency, keeping it as simple as possible and to be used as educational material.
-
->This project is just being made for fun. If you want to make your own cryptocurrency you should probably take a look at the [Bitcoin Repository](https://github.com/bitcoin/bitcoin).
+A crypto coin made by rdpstudio.
 
 
 ## What is a blockchain?
@@ -61,8 +59,3 @@ When creating a wallet address, a new file will be generated with all your secur
 Anybody is welcome to collaborate in this project. Feel free to push any pull request (even if you are new to coding). See ```CONTRIBUTING.md``` to learn how to contribute.
 
 Note: the idea of this project is to build a **really simple** blockchain system, so make sure all your code is easy to read (avoid too much code in 1 line) and don't introduce complex updates if they are not critical. In other words, keep it simple.
-
-
-## Disclaimer
-
-By no means this project should be used for real purposes, it lacks security and may contain several bugs.
